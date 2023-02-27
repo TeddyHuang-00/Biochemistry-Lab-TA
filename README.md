@@ -1,3 +1,8 @@
+- 2023/02/27：版本更新的 GST 数据收集和处理的程序已经迁移至[新仓库](https://github.com/TeddyHuang-00/GST-open-data-collect)，因此本仓库将会被归档
+- 2023/02/27: An updated version of the contained app for collecting GST data and post-processing has been migrated to a [new repository](https://github.com/TeddyHuang-00/GST-open-data-collect), therefore this repository will be archived.
+
+---
+
 # Biochemistry-Lab-TA 生物化学实验助教
 
 仅供教学或学习参考
